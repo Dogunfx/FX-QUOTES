@@ -1,6 +1,6 @@
 # My FX QUOTES
 
-A Flutter App for viewiming quotes from various authors.
+A Flutter App for viewiing quotes from various authors.
 
 ## Getting Started
 
